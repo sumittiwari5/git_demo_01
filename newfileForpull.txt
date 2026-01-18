@@ -9,7 +9,6 @@ i am changing this file a little bit
 again new line.
 
 new line 2 
-<<<<<<< HEAD
  
 new line 3 
 
@@ -23,5 +22,3 @@ again new line.
 =======
 again new line.
 >>>>>>> parent of bea5383 (change 01)
-=======
->>>>>>> parent of 54a5545 (change 0)
