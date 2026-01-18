@@ -3,6 +3,7 @@ this is a new file to check the pull command on git.
 i am changing this file a little bit 
  
 
+<<<<<<< HEAD
 again new line.
 
 new line 2 
@@ -10,3 +11,6 @@ new line 2
 new line 3 
 
 new line 4 
+=======
+again new line.
+>>>>>>> parent of bea5383 (change 01)
