@@ -5,6 +5,7 @@ i am changing this file a little bit
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 again new line.
 
 new line 2 
@@ -12,6 +13,9 @@ new line 2
 new line 3 
 
 new line 4 
+=======
+again new line.
+>>>>>>> parent of bea5383 (change 01)
 =======
 again new line.
 >>>>>>> parent of bea5383 (change 01)
